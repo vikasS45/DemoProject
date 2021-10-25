@@ -26,7 +26,7 @@ const styles = StyleSheet.create({
   },
   hideDots: {
     backgroundColor: 'transparent',
-    height: 40,
+    height: 60,
     width: width,
     marginTop: -300,
     alignSelf: 'flex-end',

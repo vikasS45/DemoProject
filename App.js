@@ -17,7 +17,7 @@ const App = () => {
 
 const styles = StyleSheet.create({
   hide: {
-    backgroundColor: 'black',
+    backgroundColor: 'transparent',
     height: 40,
     width: 160,
     marginTop: 120,

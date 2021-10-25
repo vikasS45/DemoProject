@@ -19,10 +19,10 @@ const styles = StyleSheet.create({
   hide: {
     backgroundColor: 'transparent',
     height: 60,
-    width: 180,
+    width: 160,
     marginTop: 100,
     alignSelf: 'flex-end',
-    // marginRight:50,
+     marginRight:50,
   },
   hideDots: {
     backgroundColor: 'transparent',
